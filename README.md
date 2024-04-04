@@ -6,8 +6,10 @@
 2. [Features](#features)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
+5. [Screenshots](#screenshots)
+6. [Contributing](#contributing)
+7. [License](#license)
+   
 
 ## Introduction
 
@@ -45,23 +47,23 @@ Once you are logged in, you can choose from the following options:
 
 ## Screenshots
 
-![Login Screen](/path/to/login_screenshot.png)
+![Login Screen](/images/login.png)
 
 Here's what the login screen looks like.
 
-![Home Screen](/path/to/Home_screenshot.png)
+![Home Screen](/images/home.png)
 
 Here you can see all the functionalities that student have.
 
-![Booking Screen](/path/to/booking_screenshot.png)
+![Booking Screen](/images/booking.png)
 
 This is the screen where you can book a facility.
 
-![History Screen](/path/to/history_screenshot.png)
+![History Screen](/images/history.png)
 
 You can view your booking history on this screen.
 
-![Delete Booking Screen](/path/to/delete_screenshot.png)
+![Delete Booking Screen](/images/delete.png)
 
 This is where you can delete a booking.
 
