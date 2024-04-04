@@ -29,7 +29,7 @@ The Sports Facility Booking System is a command-line application designed to man
 
 To install the Sports Facility Booking System, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/sports-facility-booking-system.git`
+1. Clone the repository: `git clone https://github.com/might-guy106/Mastering-web-3.0-Recruitment-Task.git`
 2. Navigate to the project directory: `cd sports-facility-booking-system`
 3. Compile the program using g++: `g++ main.cpp -o main`
 
